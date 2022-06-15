@@ -2,7 +2,7 @@
 
 ----
 # Project Objective: Problem Statement
-Inconsistency in returns
+Inconsistency in returns,
 Lack of insight on products to invest more in
 Inability to detect the segment that draws back sales and affect overall performance
 
